@@ -29,5 +29,3 @@ jobs:
       - name: Check out repository code
         uses: actions/checkout@v3
       - name: Print project tree
-        run: tree .
->>>>>>> 5e74b1a3cfc160c30bd6e6b953e2bd03db27ff0d
